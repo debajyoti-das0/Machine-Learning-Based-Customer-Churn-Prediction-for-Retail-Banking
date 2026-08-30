@@ -1,4 +1,4 @@
-# Customer Churn Prediction System for Retail Banking
+# Machine Learning-Based Customer Churn Prediction for Retail Banking
 
 A binary classification pipeline that predicts whether a bank customer will churn (exit the bank), built on the Kaggle "Binary Classification with a Bank Churn Dataset" (Playground Series S4E1). The project covers EDA, categorical encoding, class-imbalance handling with SMOTE, and a comparative benchmark of six classification algorithms, evaluated on Accuracy, Precision, Recall, and F1-score.
 
