@@ -23,6 +23,8 @@ A binary classification pipeline that predicts whether a bank customer will chur
 
 ### 1. Dataset
 - Source: Kaggle Playground Series S4E1 (synthetic, derived from the classic Bank Customer Churn dataset)
+- train_data link = "/kaggle/input/playground-series-s4e1/train.csv"
+- test_data link = "/kaggle/input/playground-series-s4e1/test.csv"
 - Train set: 165,034 rows × 14 columns | Test set: 110,023 rows × 13 columns
 - Target variable: `Exited` (1 = churned, 0 = retained)
 - Class distribution: 130,113 retained (78.84%) vs. 34,921 churned (21.16%) — an imbalanced classification problem
